@@ -29,7 +29,7 @@ MacOS版本15.5
 |framebuffer-patch-enable|
 
 **BIOS设置**  
-一键黑苹果模式 SETTINGS高级-D.T.M-允许  
+一键黑苹果模式 SETTINGS-高级-D.T.M-允许  
 或者手动设置：  
 快速开机：禁止  
 安全启动：禁止  
