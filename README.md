@@ -1,5 +1,7 @@
 # B460M-MORTAR-WIFI-Hackintosh-OCEFI
-自用迫击炮B460m的完美EFI，有两个版本，硬件跟我差不多的照理通用
+自用迫击炮B460m的完美OC黑果EFI，有两个版本，硬件跟我差不多的照理通用
+
+USB 所有USB已完美定制 有问题的话自己根据自己的主机定制
 
 [下载链接](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/releases) 
 
@@ -18,4 +20,3 @@
 ![image](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/blob/main/1007a088f99274438179f83dcd50f13f.png)
 ![image](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/blob/main/4974ae1e10ca320192d1ec013affa989.png)
 ![image](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/blob/main/90cef088961cff3dec1ab1b92955fd4c.png)
-USB	所有USB已完美定制 有问题的话自己根据自己的主机USB定制
