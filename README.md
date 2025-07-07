@@ -27,7 +27,7 @@ USB 所有USB已完美定制 有问题的话自己根据自己的主机定制
 |framebuffer-con0-enable|framebuffer-stolenmem|Data|00003001
 |framebuffer-patch-enable|
 
-**BIOS设置** 
+**BIOS设置**  
 一键黑苹果模式 SETTINGS高级-D.T.M-允许  
 或者手动设置：  
 快速开机：禁止  
