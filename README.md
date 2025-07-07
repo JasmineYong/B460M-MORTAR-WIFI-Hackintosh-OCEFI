@@ -7,7 +7,7 @@ Opencore版本：1.0.4
 
 [下载链接](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/releases) 
 
-| 硬件  | 型号 |
+| 硬件 | 型号 |
 | ------------- | ------------- |
 |CPU|i3-10100(Comet Lake)|
 |主板|B460M-MORTAR-WIFI|
@@ -18,6 +18,14 @@ Opencore版本：1.0.4
 |主板有线网卡|Realtek RTL8125|
 |主板无线网卡|AX200|
 |主板蓝牙|英特尔(R) 无线 Bluetooth(R)|
+
+已定制显示器HDMI接口
+无法显示的话 请修改DeviceProperties
+| 删除 | 重新添加Key | Data Type | Value |
+| ------------- | ------------- | ------------- | ------------- |
+|framebuffer-con0-alldata|framebuffer-patch-enable|Data|01000000
+|framebuffer-con0-enable|framebuffer-stolenmem|Data|00003001
+|framebuffer-patch-enable|
 
 ![image](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/blob/main/1007a088f99274438179f83dcd50f13f.png)
 ![image](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/blob/main/4974ae1e10ca320192d1ec013affa989.png)
