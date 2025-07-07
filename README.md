@@ -1,6 +1,8 @@
 # B460M-MORTAR-WIFI-Hackintosh-OCEFI
 自用迫击炮B460m的完美EFI，有两个版本，硬件跟我差不多的照理通用
 
+[下载链接](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/releases) 
+
 | 硬件  | 型号 |
 | ------------- | ------------- |
 |CPU|i3-10100(Comet Lake)|
