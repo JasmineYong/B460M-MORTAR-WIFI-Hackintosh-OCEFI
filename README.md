@@ -13,7 +13,7 @@ MacOS版本15.5
 |CPU|i3-10100(Comet Lake)|
 |主板|B460M-MORTAR-WIFI|
 |核显|UHD Graphics 630|
-|独显|已屏蔽|
+|独显|没有独显未屏蔽|
 |硬盘|ZHITAI TiPlus5000 512GB|
 |主板声卡|USB音响 ALC1200|
 |主板有线网卡|Realtek RTL8125|
