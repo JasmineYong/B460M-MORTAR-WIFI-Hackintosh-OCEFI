@@ -3,6 +3,8 @@
 
 USB 所有USB已完美定制 有问题的话自己根据自己的主机定制
 
+Opencore版本：1.0.4
+
 [下载链接](https://github.com/JasmineYong/B460M-MORTAR-WIFI-Hackintosh-OCEFI/releases) 
 
 | 硬件  | 型号 |
